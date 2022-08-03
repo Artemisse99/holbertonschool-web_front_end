@@ -14,6 +14,9 @@ html{
 body{
     color: var(--text-color);
 }
+a{
+    color: var(--text-color);
+}
 .visually-hidden{
     display: none;
 }
