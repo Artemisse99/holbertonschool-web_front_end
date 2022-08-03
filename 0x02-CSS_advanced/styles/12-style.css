@@ -60,7 +60,7 @@ a{
 }
 .section-title{
     font-family: var(--font-family-title);
-    font-size: font-size-xx-large;
+    font-size: var(--font-size-xx-large);
     font-weight: var(--font-weight-bold);
     color: var(--secction-title-color);
 }
