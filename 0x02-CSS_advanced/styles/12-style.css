@@ -46,7 +46,8 @@ h6 {
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
 }
-a{
+a{  
+    color: var(--text-color);
     text-decoration: none;
 }
 .visually-hidden{
