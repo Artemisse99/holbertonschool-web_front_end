@@ -32,6 +32,9 @@ body{
     font-weight: var(--font-weight-regular);
     min-height: var(--line-height-base);
 }
+a{
+    color: var(--text-color);
+}
 
 h1,
 h2,
