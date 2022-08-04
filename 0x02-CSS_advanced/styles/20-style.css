@@ -398,6 +398,11 @@ ul.row {
     font-size: var(--font-size-small);
     color: var(--text-color);
 }
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
 .footer ul {
     text-align: right;
 }
